@@ -1,0 +1,26 @@
+#logo{
+    width: 70%;
+    height: 70%;
+}
+
+#logo{
+    margin-left: 20%;
+}
+.nav-link:hover{
+    background-color: #ccc ;
+    border-radius: 30px;
+    transition: background .4s;
+}
+
+#formbuscar input{
+    width: 60%;
+}
+#formbuscar button{
+    width: 16%;
+}
+#opcionesCita{
+    padding-top: 20px;
+}
+
+
+
